@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/27 23:46:17.390.bdsproj,C:\Users\jcarl\Documents\Borland Studio Projects\Project5.bdsproj=C:\Users\jcarl\Documents\Borland Studio Projects\ exe.bdsproj</Transaction>
+    <Transaction>2023/04/27 23:46:47.102.bdsproj,C:\Users\jcarl\Documents\Borland Studio Projects\ exe.bdsproj=C:\Users\jcarl\Documents\Borland Studio Projects\BytesToModify.bdsproj</Transaction>
+    <Transaction>2023/04/27 23:47:18.248.pas,C:\Users\jcarl\Documents\Borland Studio Projects\Unit3.pas=R:\proyecto cambio\Unit3.pas</Transaction>
+    <Transaction>2023/04/27 23:47:18.248.dfm,C:\Users\jcarl\Documents\Borland Studio Projects\Unit3.dfm=R:\proyecto cambio\Unit3.dfm</Transaction>
+    <Transaction>2023/04/27 23:47:21.264.bdsproj,C:\Users\jcarl\Documents\Borland Studio Projects\BytesToModify.bdsproj=R:\proyecto cambio\BytesToModify.bdsproj</Transaction>
+    <Transaction>2023/04/27 23:47:35.805.bdsproj,R:\proyecto cambio\BytesToModify.bdsproj=R:\proyecto cambio\BytesToModify.bdsproj</Transaction>
+    <Transaction>2023/04/30 23:56:25.518.bdsproj,R:\proyecto cambio\BytesToModify.bdsproj=R:\proyecto cambio\Parcheador.bdsproj</Transaction>
+    <Transaction>2023/05/07 13:57:42.342.bdsproj,R:\proyecto cambio\2007A\English\Parcheador.bdsproj=R:\proyecto cambio\2007A\English\Con RVA\Parcheador.bdsproj</Transaction>
+    <Transaction>2023/05/07 13:58:12.462.pas,R:\proyecto cambio\2007A\English\Unit3.pas=R:\proyecto cambio\2007A\English\Con RVA\Unit3.pas</Transaction>
+    <Transaction>2023/05/07 13:58:12.462.dfm,R:\proyecto cambio\2007A\English\Unit3.dfm=R:\proyecto cambio\2007A\English\Con RVA\Unit3.dfm</Transaction>
+    <Transaction>2023/05/07 14:04:19.107.bdsproj,R:\proyecto cambio\2007A\English\Con RVA\Parcheador.bdsproj=R:\proyecto cambio\2007A\English\Parcheador.bdsproj</Transaction>
+    <Transaction>2023/05/07 14:04:28.126.pas,R:\proyecto cambio\2007A\English\Con RVA\Unit3.pas=R:\proyecto cambio\2007A\English\Unit3.pas</Transaction>
+    <Transaction>2023/05/07 14:04:28.126.dfm,R:\proyecto cambio\2007A\English\Con RVA\Unit3.dfm=R:\proyecto cambio\2007A\English\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
